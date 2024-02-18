@@ -26,7 +26,7 @@
  
 
 
-<h2> World map of incoming attacks after 48 hours (built custom logs including geodata)</h2>
+<h2> World map of incoming attacks after 48 hours pulled with Azure Custom log (built custom logs including geodata)</h2>
  
  
 ![image6](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/9d684f53-facb-40bc-ac39-6eb91d4e02a1)
