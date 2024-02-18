@@ -9,7 +9,7 @@
 
 
 
--
+- Set up connection to Event viewer
 ![image(1)](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/b3b040bd-4d57-4b72-8244-10949c7909c6)
 
 
