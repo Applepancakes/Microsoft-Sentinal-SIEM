@@ -4,13 +4,16 @@
 
 
  <h2>Setting Up the Vm environment and Log connections. A rule as been put in place that allows RDP traffic through, the firewall disabled as well. </h2> 
+
+
 ![image](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/f8265fa2-0cce-486a-8785-dcc3004aba4a)
 
  
  
 
  <h2>Set up connection to Event viewer, this is my successful connection. We will see the powershell script in the following image which we will track the failed attempts(the attacking bots)</h2> 
--
+
+
 ![image(1)](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/b3b040bd-4d57-4b72-8244-10949c7909c6)
 
 
