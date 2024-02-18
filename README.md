@@ -6,7 +6,7 @@
  <h2>Setting Up the Vm environment and Log connections. A rule as been put in place that allows RDP traffic through, the firewall disabled as well. </h2> 
 
 
-![image](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/f8265fa2-0cce-486a-8785-dcc3004aba4a)
+![image](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/fe92a5bf-5c91-485e-be0d-5ca5220dcc90)
 
  
  
