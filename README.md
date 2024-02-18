@@ -9,18 +9,21 @@
 
 
 
-- Set up connection to Event viewer, this is my successful conneciton
+- Set up connection to Event viewer, this is my successful connection
+
 ![image(1)](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/b3b040bd-4d57-4b72-8244-10949c7909c6)
 
 
 
-<h2> The Public IP of the VM has been discovered; Custom logs being output with geodata</h2>
+- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+
 ![image4](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/6599d2f1-c4f2-4d8c-9815-ea399de690da)
 
 
 
 
 <h2>World map of incoming attacks after 48 hours (built custom logs including geodata)</h2>
+
 ![image6](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/assets/158091426/9d684f53-facb-40bc-ac39-6eb91d4e02a1)
 
 
